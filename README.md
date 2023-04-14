@@ -9,7 +9,7 @@ This repo contains Jupyter notebooks written in Python for obtaining "optimal" t
 
 It is suggested to run these notebooks from within a virtual python environment (venv) rather than messing with the primary Python installation on your machine. To create a new venv:
 ```
-python3 -m <path-to-new-venv>
+python3 -m venv <path-to-new-venv>
 ```
 For example, `python3 -m $HOME/my-venv` will create a new virtual python environment called `my-venv` in your home directory.
 
